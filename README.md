@@ -17,7 +17,7 @@ Este curso introduce a estudiantes de secundaria a los fundamentos de la program
 
 ## Secuencia de las lecciones
 
-### Lección 1: ¿Qué es programar y qué es Java? (5 minutos)
+### Lección 1: ¿Qué es programar y qué es Java? (2 minutos)
 
 - **Descripción:** comprende cómo las instrucciones permiten que Dan avance en su aventura. Conoce Java, el editor, el botón **Run** y la consola de OnlineGDB.
 - **Objetivo:** entender qué es una instrucción y ejecutar un primer programa.
@@ -26,7 +26,6 @@ Este curso introduce a estudiantes de secundaria a los fundamentos de la program
 - **Práctica principal:** cambia «Dan» por el nombre de tu personaje y ejecuta el programa.
 - **Desafío opcional:** agrega una tercera línea con el nombre del mundo o experimenta con un punto y coma faltante y corrige el error.
 - **Video:** `[PENDIENTE: enlace de YouTube — Video 1]`.
-- **Programar en OnlineGDB:** `[PENDIENTE: enlace al ejemplo precargado — Video 1]`.
 
 ### Lección 2: Variables y tipos de datos (6 minutos)
 
@@ -37,7 +36,6 @@ Este curso introduce a estudiantes de secundaria a los fundamentos de la program
 - **Práctica principal:** cambia el nombre y las vidas del héroe; predice qué aparecerá en consola.
 - **Desafío opcional:** cambia `tieneLlave` a `true` o agrega una variable `puntos`.
 - **Video:** `[PENDIENTE: enlace de YouTube — Video 2]`.
-- **Programar en OnlineGDB:** `[PENDIENTE: enlace al ejemplo precargado — Video 2]`.
 
 ### Lección 3: Operadores y expresiones (5 minutos)
 
@@ -48,7 +46,7 @@ Este curso introduce a estudiantes de secundaria a los fundamentos de la program
 - **Práctica principal:** modifica las monedas iniciales y predice si Dan puede abrir el cofre.
 - **Desafío opcional:** calcula la energía tras dos golpes o identifica rondas pares con `% 2 == 0`.
 - **Video:** `[PENDIENTE: enlace de YouTube — Video 3]`.
-- **Programar en OnlineGDB:** `[PENDIENTE: enlace al ejemplo precargado — Video 3]`.
+
 
 ### Lección 4: Tomar decisiones con if-else (6 minutos)
 
@@ -59,7 +57,7 @@ Este curso introduce a estudiantes de secundaria a los fundamentos de la program
 - **Práctica principal:** prueba los valores de energía `80`, `35` y `0`; explica el resultado de cada uno.
 - **Desafío opcional:** cambia `tieneLlave` para abrir la puerta o agrega una condición sobre monedas.
 - **Video:** `[PENDIENTE: enlace de YouTube — Video 4]`.
-- **Programar en OnlineGDB:** `[PENDIENTE: enlace al ejemplo precargado — Video 4]`.
+
 
 ### Lección 5: Repetir tareas con bucles for y while (6 minutos)
 
@@ -70,7 +68,7 @@ Este curso introduce a estudiantes de secundaria a los fundamentos de la program
 - **Práctica principal:** cambia las cinco rondas por tres y comprueba los puntos acumulados.
 - **Desafío opcional:** aumenta la recompensa por ronda o cambia la cuenta regresiva a cinco.
 - **Video:** `[PENDIENTE: enlace de YouTube — Video 5]`.
-- **Programar en OnlineGDB:** `[PENDIENTE: enlace al ejemplo precargado — Video 5]`.
+
 
 ### Lección 6: Métodos y parámetros (6 minutos)
 
@@ -81,7 +79,7 @@ Este curso introduce a estudiantes de secundaria a los fundamentos de la program
 - **Práctica principal:** cambia `recuperarEnergia(30, 20)` para recuperar solo 10 puntos.
 - **Desafío opcional:** crea un método `ganarPuntos` o saluda a un personaje adicional.
 - **Video:** `[PENDIENTE: enlace de YouTube — Video 6]`.
-- **Programar en OnlineGDB:** `[PENDIENTE: enlace al ejemplo precargado — Video 6]`.
+
 
 ### Lección 7: Entrada y salida con Scanner (7 minutos)
 
@@ -92,7 +90,7 @@ Este curso introduce a estudiantes de secundaria a los fundamentos de la program
 - **Práctica principal:** ejecuta el programa y abre el cofre usando las pistas.
 - **Desafío opcional:** modifica la clave o cuenta el número de intentos.
 - **Video:** `[PENDIENTE: enlace de YouTube — Video 7]`.
-- **Programar en OnlineGDB:** `[PENDIENTE: enlace al ejemplo precargado — Video 7]`.
+
 
 ### Lección 8: Clases, objetos y constructores (7 minutos)
 
@@ -103,7 +101,6 @@ Este curso introduce a estudiantes de secundaria a los fundamentos de la program
 - **Práctica principal:** crea `Mascota nube = new Mascota("Nube", "conejo");` y ejecuta `nube.jugar();`.
 - **Desafío opcional:** predice la energía de Luna y Rocky o añade `mostrarEstado()`.
 - **Video:** `[PENDIENTE: enlace de YouTube — Video 8]`.
-- **Programar en OnlineGDB:** `[PENDIENTE: enlace al ejemplo precargado — Video 8]`.
 
 ### Lección 9: Encapsulación y arreglos con objetos (6 minutos)
 
@@ -114,7 +111,7 @@ Este curso introduce a estudiantes de secundaria a los fundamentos de la program
 - **Práctica principal:** intenta asignar a Luna energía `80` y luego `500`; observa la validación y muestra el equipo.
 - **Desafío opcional:** añade una cuarta mascota o muestra los nombres en mayúsculas con `toUpperCase()`.
 - **Video:** `[PENDIENTE: enlace de YouTube — Video 9]`.
-- **Programar en OnlineGDB:** `[PENDIENTE: enlace al ejemplo precargado — Video 9]`.
+
 
 ### Lección 10: Proyecto final y buenas prácticas (8 minutos)
 
@@ -127,7 +124,7 @@ Este curso introduce a estudiantes de secundaria a los fundamentos de la program
 - **Nota de producción:** durante el video se completan o modifican únicamente tres fragmentos: una opción del menú, la exploración y la visualización del equipo. El repositorio debe incluir tanto el archivo inicial como la solución completa.
 - **Video:** `[PENDIENTE: enlace de YouTube — Video 10]`.
 - **Proyecto final en OnlineGDB:** `[PENDIENTE: enlace al proyecto inicial precargado]`.
-- **Solución completa:** `[PENDIENTE: enlace al código final en el repositorio]`.
+
 
 ## Recursos adicionales
 
@@ -156,8 +153,6 @@ Este curso introduce a estudiantes de secundaria a los fundamentos de la program
 ```text
 java-fundamentals-course-smilingfood/
 ├── README.md
-├── starter-files/
-│   └── video-10-inicial.java
 ├── completed-examples/
 │   ├── video-01.java
 │   ├── video-02.java
@@ -207,5 +202,6 @@ java-fundamentals-course-smilingfood/
 </tr>
 </table>
 
+<br>
 
-**Fecha de entrega:** `Noviembre 2026`
+**Fecha de entrega:** Noviembre 2026
