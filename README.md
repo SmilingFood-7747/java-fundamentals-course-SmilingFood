@@ -128,10 +128,9 @@ Este curso introduce a estudiantes de secundaria a los fundamentos de la program
 
 ## Recursos adicionales
 
-- **Repositorio completo de GitHub:** `[PENDIENTE: URL]`.
+- **Repositorio completo de GitHub:** `https://github.com/SmilingFood-7747/java-fundamentals-course-SmilingFood.git`
 - **Lista de reproducción del curso:** `[PENDIENTE: URL de YouTube]`.
-- **Proyecto final (versión inicial):** `[PENDIENTE: URL de OnlineGDB]`.
-- **Proyecto final (versión resuelta):** `[PENDIENTE: URL del repositorio o OnlineGDB]`.
+
 
 ### Todas las actividades prácticas
 
