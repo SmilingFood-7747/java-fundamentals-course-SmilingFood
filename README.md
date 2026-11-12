@@ -25,9 +25,9 @@ Este curso introduce a estudiantes de secundaria a los fundamentos de la program
 - **Código de demostración:** bienvenida a la aventura de Dan.
 - **Práctica principal:** cambia «Dan» por el nombre de tu personaje y ejecuta el programa.
 - **Desafío opcional:** agrega una tercera línea con el nombre del mundo o experimenta con un punto y coma faltante y corrige el error.
-- **Video:** `[PENDIENTE: enlace de YouTube — Video 1]`.
+- **Video:**  https://youtu.be/JbfMz-baFdk
 
-### Lección 2: Variables y tipos de datos (6 minutos)
+### Lección 2: Variables y tipos de datos (1 minuto 50 segundos)
 
 - **Descripción:** crea la ficha de Dan con su nombre, vidas, velocidad y posesión de una llave.
 - **Objetivo:** crear y modificar variables de tipo `String`, `int`, `double` y `boolean`.
@@ -35,9 +35,9 @@ Este curso introduce a estudiantes de secundaria a los fundamentos de la program
 - **Código de demostración:** `String nombre = "Dan";`, `int vidas = 3;`, `double velocidad = 1.5;` y `boolean tieneLlave = false;`.
 - **Práctica principal:** cambia el nombre y las vidas del héroe; predice qué aparecerá en consola.
 - **Desafío opcional:** cambia `tieneLlave` a `true` o agrega una variable `puntos`.
-- **Video:** `[PENDIENTE: enlace de YouTube — Video 2]`.
+- **Video:** https://youtu.be/7V6lv--TAyU
 
-### Lección 3: Operadores y expresiones (5 minutos)
+### Lección 3: Operadores y expresiones (1 minuto 50 segundos)
 
 - **Descripción:** calcula monedas, puntos y energía; comprueba si Dan cumple las condiciones para abrir un cofre.
 - **Objetivo:** utilizar operadores aritméticos, de comparación y lógicos.
@@ -45,10 +45,10 @@ Este curso introduce a estudiantes de secundaria a los fundamentos de la program
 - **Código de demostración:** `int monedas = 10 + 5;` y `monedas >= 10 && tieneLlave`.
 - **Práctica principal:** modifica las monedas iniciales y predice si Dan puede abrir el cofre.
 - **Desafío opcional:** calcula la energía tras dos golpes o identifica rondas pares con `% 2 == 0`.
-- **Video:** `[PENDIENTE: enlace de YouTube — Video 3]`.
+- **Video:** https://youtu.be/HFNMew4oIoA
 
 
-### Lección 4: Tomar decisiones con if-else (6 minutos)
+### Lección 4: Tomar decisiones con if-else (1 minuto 44 segundos)
 
 - **Descripción:** ayuda a Dan a decidir si puede entrar al castillo y qué hacer según su energía.
 - **Objetivo:** utilizar `if`, `else if` y `else` para controlar diferentes caminos del programa.
@@ -56,10 +56,9 @@ Este curso introduce a estudiantes de secundaria a los fundamentos de la program
 - **Código de demostración:** puerta del castillo según `tieneLlave` y estados de energía de Dan.
 - **Práctica principal:** prueba los valores de energía `80`, `35` y `0`; explica el resultado de cada uno.
 - **Desafío opcional:** cambia `tieneLlave` para abrir la puerta o agrega una condición sobre monedas.
-- **Video:** `[PENDIENTE: enlace de YouTube — Video 4]`.
+- **Video:** https://youtu.be/RvUtzE8y5vw
 
-
-### Lección 5: Repetir tareas con bucles for y while (6 minutos)
+### Lección 5: Repetir tareas con bucles for y while (1 minuto 50 segundos)
 
 - **Descripción:** completa rondas, acumula puntos y realiza una cuenta regresiva para abrir una puerta.
 - **Objetivo:** repetir instrucciones con los bucles `for` y `while`.
@@ -67,10 +66,10 @@ Este curso introduce a estudiantes de secundaria a los fundamentos de la program
 - **Código de demostración:** `for (int ronda = 1; ronda <= 5; ronda++)` y cuenta regresiva con `while`.
 - **Práctica principal:** cambia las cinco rondas por tres y comprueba los puntos acumulados.
 - **Desafío opcional:** aumenta la recompensa por ronda o cambia la cuenta regresiva a cinco.
-- **Video:** `[PENDIENTE: enlace de YouTube — Video 5]`.
+- **Video:**  https://youtu.be/HYkPB7ZtJPc
 
 
-### Lección 6: Métodos y parámetros (6 minutos)
+### Lección 6: Métodos y parámetros (1 minuto 51 segundos)
 
 - **Descripción:** crea acciones reutilizables para saludar personajes, recuperar energía y comprobar si Dan puede avanzar.
 - **Objetivo:** declarar y llamar métodos con parámetros y valores de retorno.
@@ -78,10 +77,9 @@ Este curso introduce a estudiantes de secundaria a los fundamentos de la program
 - **Código de demostración:** `saludar(String nombre)`, `recuperarEnergia(int actual, int cantidad)` y `puedeAvanzar(int energia)`.
 - **Práctica principal:** cambia `recuperarEnergia(30, 20)` para recuperar solo 10 puntos.
 - **Desafío opcional:** crea un método `ganarPuntos` o saluda a un personaje adicional.
-- **Video:** `[PENDIENTE: enlace de YouTube — Video 6]`.
+- **Video:** https://youtu.be/t5A2d8VgaLs
 
-
-### Lección 7: Entrada y salida con Scanner (7 minutos)
+### Lección 7: Entrada y salida con Scanner (2 minuto 14 segundos)
 
 - **Descripción:** permite que el jugador escriba el nombre de su héroe y adivine la clave de un cofre mediante pistas.
 - **Objetivo:** recibir texto y números desde la consola.
@@ -89,10 +87,10 @@ Este curso introduce a estudiantes de secundaria a los fundamentos de la program
 - **Código de demostración:** `Scanner sc = new Scanner(System.in);` y cofre con clave `7`, pistas y repetición mediante `while`.
 - **Práctica principal:** ejecuta el programa y abre el cofre usando las pistas.
 - **Desafío opcional:** modifica la clave o cuenta el número de intentos.
-- **Video:** `[PENDIENTE: enlace de YouTube — Video 7]`.
+- **Video:** https://youtu.be/lCQGye-Wh6Y
 
 
-### Lección 8: Clases, objetos y constructores (7 minutos)
+### Lección 8: Clases, objetos y constructores (2 minuto 10 segundos)
 
 - **Descripción:** presenta a Luna y Rocky, mascotas virtuales con nombre, tipo y energía, capaces de jugar y dormir.
 - **Objetivo:** comprender clases, atributos, métodos, objetos y constructores.
@@ -100,9 +98,9 @@ Este curso introduce a estudiantes de secundaria a los fundamentos de la program
 - **Código de demostración:** clase `Mascota`, constructor `Mascota(String nombre, String tipo)`, métodos `jugar()` y `dormir()`.
 - **Práctica principal:** crea `Mascota nube = new Mascota("Nube", "conejo");` y ejecuta `nube.jugar();`.
 - **Desafío opcional:** predice la energía de Luna y Rocky o añade `mostrarEstado()`.
-- **Video:** `[PENDIENTE: enlace de YouTube — Video 8]`.
+- **Video:** https://youtu.be/mWPMn4Sr3Rw
 
-### Lección 9: Encapsulación y arreglos con objetos (6 minutos)
+### Lección 9: Encapsulación y arreglos con objetos (2 minutos)
 
 - **Descripción:** protege la energía de las mascotas y organiza a Luna, Rocky y Nube en un equipo.
 - **Objetivo:** utilizar `private`, getters, setters y arreglos de objetos.
@@ -110,10 +108,10 @@ Este curso introduce a estudiantes de secundaria a los fundamentos de la program
 - **Código de demostración:** `getEnergia()`, `setEnergia(int nuevaEnergia)`, `Mascota[] equipo` y recorrido de `equipo.length`.
 - **Práctica principal:** intenta asignar a Luna energía `80` y luego `500`; observa la validación y muestra el equipo.
 - **Desafío opcional:** añade una cuarta mascota o muestra los nombres en mayúsculas con `toUpperCase()`.
-- **Video:** `[PENDIENTE: enlace de YouTube — Video 9]`.
+- **Video:** https://youtu.be/f0CCGCRXiJU
 
 
-### Lección 10: Proyecto final y buenas prácticas (8 minutos)
+### Lección 10: Proyecto final y buenas prácticas (2 minuto 50 segundos)
 
 - **Descripción:** integra lo aprendido en una aventura de texto con menú interactivo, exploración, puntos, energía y mascotas.
 - **Objetivo:** combinar variables, operadores, decisiones, bucles, métodos, entrada/salida, clases, encapsulación y arreglos.
@@ -122,8 +120,7 @@ Este curso introduce a estudiantes de secundaria a los fundamentos de la program
 - **Práctica principal:** abre el proyecto, explora una vez, revisa el equipo y descansa.
 - **Desafío opcional:** añade a Nube, cambia la recompensa de 10 a 15 puntos o crea una opción «Ver instrucciones».
 - **Nota de producción:** durante el video se completan o modifican únicamente tres fragmentos: una opción del menú, la exploración y la visualización del equipo. El repositorio debe incluir tanto el archivo inicial como la solución completa.
-- **Video:** `[PENDIENTE: enlace de YouTube — Video 10]`.
-- **Proyecto final en OnlineGDB:** `[PENDIENTE: enlace al proyecto inicial precargado]`.
+- **Video:** [`[PENDIENTE: enlace de YouTube — Video 10]`.](https://youtu.be/Fsu1AS8tdHM)
 
 
 ## Recursos adicionales
@@ -136,16 +133,16 @@ Este curso introduce a estudiantes de secundaria a los fundamentos de la program
 
 | Lección | Tema | Actividad principal | Entorno de práctica |
 |---|---|---|---|
-| 1 | Introducción a Java | Personalizar la bienvenida de Dan | OnlineGDB — enlace pendiente |
-| 2 | Variables y tipos de datos | Cambiar nombre y vidas del héroe | OnlineGDB — enlace pendiente |
-| 3 | Operadores y expresiones | Calcular monedas y comprobar el cofre | OnlineGDB — enlace pendiente |
-| 4 | Condiciones `if-else` | Probar diferentes niveles de energía | OnlineGDB — enlace pendiente |
-| 5 | Bucles `for` y `while` | Completar tres rondas | OnlineGDB — enlace pendiente |
-| 6 | Métodos y parámetros | Modificar la recuperación de energía | OnlineGDB — enlace pendiente |
-| 7 | Entrada con `Scanner` | Adivinar la clave del cofre | OnlineGDB — enlace pendiente |
-| 8 | Clases y objetos | Crear a Nube y hacerla jugar | OnlineGDB — enlace pendiente |
-| 9 | Encapsulación y arreglos | Validar energía y recorrer mascotas | OnlineGDB — enlace pendiente |
-| 10 | Proyecto final | Explorar, ver equipo y descansar | OnlineGDB — enlace pendiente |
+| 1 | Introducción a Java | Personalizar la bienvenida de Dan |[ OnlineGDB ](https://www.onlinegdb.com/online_java_compiler#) |
+| 2 | Variables y tipos de datos | Cambiar nombre y vidas del héroe | [ OnlineGDB ](https://www.onlinegdb.com/online_java_compiler#) |
+| 3 | Operadores y expresiones | Calcular monedas y comprobar el cofre | [ OnlineGDB ](https://www.onlinegdb.com/online_java_compiler#) |
+| 4 | Condiciones `if-else` | Probar diferentes niveles de energía | [ OnlineGDB ](https://www.onlinegdb.com/online_java_compiler#) |
+| 5 | Bucles `for` y `while` | Completar tres rondas | [ OnlineGDB ](https://www.onlinegdb.com/online_java_compiler#) |
+| 6 | Métodos y parámetros | Modificar la recuperación de energía | [ OnlineGDB ](https://www.onlinegdb.com/online_java_compiler#) |
+| 7 | Entrada con `Scanner` | Adivinar la clave del cofre | [ OnlineGDB ](https://www.onlinegdb.com/online_java_compiler#) |
+| 8 | Clases y objetos | Crear a Nube y hacerla jugar | [ OnlineGDB ](https://www.onlinegdb.com/online_java_compiler#) |
+| 9 | Encapsulación y arreglos | Validar energía y recorrer mascotas | [ OnlineGDB ](https://www.onlinegdb.com/online_java_compiler#) |
+| 10 | Proyecto final | Explorar, ver equipo y descansar | [ OnlineGDB ](https://www.onlinegdb.com/online_java_compiler#) |
 
 ### Organización sugerida del repositorio
 
@@ -175,7 +172,7 @@ java-fundamentals-course-smilingfood/
 **Curso:** 1ASI0729 — Desarrollo de Aplicaciones Open Source  
 **NRC:** 7747  
 **Nombre del equipo:** SmilingFood  
-**Líder del equipo:** `[PENDIENTE: nombres y apellidos]`  
+**Líder del equipo:** Giuliano Angel Peláez Vargas
 **Integrantes del equipo:** 
 
 <table style="margin: 0 auto; border-collapse: collapse;" border="1" align="center">
