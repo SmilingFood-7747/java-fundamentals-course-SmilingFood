@@ -120,13 +120,12 @@ Este curso introduce a estudiantes de secundaria a los fundamentos de la program
 - **Práctica principal:** abre el proyecto, explora una vez, revisa el equipo y descansa.
 - **Desafío opcional:** añade a Nube, cambia la recompensa de 10 a 15 puntos o crea una opción «Ver instrucciones».
 - **Nota de producción:** durante el video se completan o modifican únicamente tres fragmentos: una opción del menú, la exploración y la visualización del equipo. El repositorio debe incluir tanto el archivo inicial como la solución completa.
-- **Video:** [`[PENDIENTE: enlace de YouTube — Video 10]`.](https://youtu.be/Fsu1AS8tdHM)
+- **Video:**  https://youtu.be/Fsu1AS8tdHM
 
 
 ## Recursos adicionales
 
 - **Repositorio completo de GitHub:** `https://github.com/SmilingFood-7747/java-fundamentals-course-SmilingFood.git`
-- **Lista de reproducción del curso:** `[PENDIENTE: URL de YouTube]`.
 
 
 ### Todas las actividades prácticas
